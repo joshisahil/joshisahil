@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=joshisahil&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 ![Followers](https://img.shields.io/github/followers/joshisahil?style=for-the-badge&logo=github&color=1f6feb)
 ![Hackathon](https://img.shields.io/badge/Loop%20Hackathon-2nd%20Runner--Up-f5a623?style=for-the-badge&logo=trophy&logoColor=white)
 
